@@ -1,0 +1,16 @@
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" rx="40" fill="#2271b1"/>
+  <g stroke="#ffffff" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <!-- 左側のリンク -->
+    <path d="M80 128c0-22 18-40 40-40h20"/>
+    <path d="M80 128c0 22 18 40 40 40h20"/>
+
+    <!-- 右側のリンク -->
+    <path d="M176 128c0-22-18-40-40-40h-20"/>
+    <path d="M176 128c0 22-18 40-40 40h-20"/>
+
+    <!-- バツ印（リンク切れ） -->
+    <line x1="110" y1="110" x2="146" y2="146"/>
+    <line x1="146" y1="110" x2="110" y2="146"/>
+  </g>
+</svg>

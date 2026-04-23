@@ -1,0 +1,47 @@
+@charset "utf-8";
+
+
+
+/* ============================
+   WP Link Health Mini – Admin UI
+   ============================ */
+
+/* 設定画面のテーブルを少し広げる */
+.form-table th {
+    width: 200px;
+    vertical-align: top;
+}
+
+/* 説明文の行間 */
+.form-table .description {
+    margin-top: 4px;
+    line-height: 1.5;
+}
+
+/* 今すぐチェックボタン */
+.wlhm-run-check {
+    margin: 10px 0 20px;
+}
+
+/* 結果テーブルのステータス色（WP_List_Table側の補強） */
+.wlhm-status-ok {
+    color: #46b450;
+    font-weight: bold;
+}
+
+.wlhm-status-redirect {
+    color: #dba617;
+    font-weight: bold;
+}
+
+.wlhm-status-error {
+    color: #d63638;
+    font-weight: bold;
+}
+
+/* 管理バーのバッジを少し丸く */
+#wp-admin-bar-wlhm_admin_bar .ab-item span {
+    border-radius: 10px;
+    padding: 2px 6px;
+    font-size: 11px;
+}
