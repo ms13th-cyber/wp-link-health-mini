@@ -2,7 +2,7 @@
 /**
  * Plugin Name: WP Link Health Mini
  * Description: 軽量なリンク死活監視プラグイン。外部リンクの404/403/timeoutをチェックします。
- * Version: 1.0.0
+ * Version: 1.0.1
  * Tested up to: 6.9.4
  * Requires PHP: 8.3.23
  * Author: masato shibuya(Image-box Co., Ltd.)
