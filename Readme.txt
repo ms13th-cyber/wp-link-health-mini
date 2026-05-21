@@ -2,9 +2,9 @@
 Contributors: masato shibuya(Image-box Co., Ltd.)
 Tags: link check, broken link, broken links, seo, maintenance, japanese
 Requires at least: 5.0
-Tested up to: 6.9
+Tested up to: 7.0.0
 Requires PHP: 8.0
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -80,6 +80,9 @@ WP Link Health Mini は「エラーのみ保存」仕様です。正常なリン
 3. 設定画面（チェック頻度・対象リンク・通知設定など）
 
 == Changelog ==
+
+= 1.0.1 =
+* Wordpress7.0.0での動作確認
 
 = 1.0.1 =
 * テキスト修正
